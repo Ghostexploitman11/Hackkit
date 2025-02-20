@@ -46,7 +46,7 @@ if __name__ == "__main__":
 ██   ██ ██   ██  ██████ ██   ██     ██   ██ ██    ██    
     """)
 
-    # Daha küçük bir fontla ASCII sanatı yazdırıyoruz
+
     print(Fore.GREEN + """
    ___ _           _                _     _ _                   
   / __| |_  ___ __| |_ _____ ___ __| |___(_) |_ _ __  __ _ _ _  
